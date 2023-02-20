@@ -42,7 +42,8 @@
     
     ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-      ![Dart](https://img.shields.io/badge/Dart%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 
 <br>   
@@ -54,21 +55,52 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
+<br>   
+    
+- **Back-End Development**:
 
+  ![PHP](https://img.shields.io/badge/PHP%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Nodejs](https://img.shields.io/badge/Nodejs%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Springboot](https://img.shields.io/badge/Springboot%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
 - **Mobile Development**:
 
-    ![Flutter](https://img.shields.io/badge/Flutter%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+  ![Flutter](https://img.shields.io/badge/Flutter%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Responsive UI](https://img.shields.io/badge/Responsive-UI%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Cross-platform](https://img.shields.io/badge/Cross-platform%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) 
+  ![Design Patterns](https://img.shields.io/badge/design%20patterns20%-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) 
 <br>
 
+- **Quality Assurance and Testing**:
+
+    ![Selenium](https://img.shields.io/badge/selenium%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Cypress](https://img.shields.io/badge/Cypress%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Test Rails](https://img.shields.io/badge/Test%20Rails%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) 
+    ![Manual Testing](https://img.shields.io/badge/Manual%20Testing%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+<br>
+
+
+<br>
+
+- **Databases**:
+
+    ![Firebase](https://img.shields.io/badge/Firebase%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+
+<br>
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Jira](https://img.shields.io/badge/jira-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+    ![Figma](https://img.shields.io/badge/Figma-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+        ![Postman](https://img.shields.io/badge/postman-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 <br>
 
 - **Extras**:
@@ -116,23 +148,18 @@
 
 <li>
 <a href="https://www.linkedin.com/in/shams-salman-29159a207/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  shamssalman-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
-<!-- <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li> -->
 
 <br>
 
 <li>
 <a href="mailto:shamssami21@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  shamssalman-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
