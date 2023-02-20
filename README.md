@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hello World! , I'm Shams! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-motivated+Software+Developer,;Flutter+Developer+QA-Engineer,;+Passionate,;Active+Learner/Freelancer,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -40,7 +40,7 @@
 
 - **Languages**:
     
-    ![Java](https://img.shields.io/badge/-Java-blue)
+    ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -53,8 +53,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<br>
+
+
 <br>   
     
 - **Back-End Development**:
@@ -64,6 +64,7 @@
   ![Springboot](https://img.shields.io/badge/Springboot%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
+
 - **Mobile Development**:
 
   ![Flutter](https://img.shields.io/badge/Flutter%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -78,9 +79,6 @@
   ![Cypress](https://img.shields.io/badge/Cypress%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Test Rails](https://img.shields.io/badge/Test%20Rails%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) 
   ![Manual Testing](https://img.shields.io/badge/Manual%20Testing%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-<br>
-
 
 <br>
 
