@@ -40,7 +40,7 @@
 
 - **Languages**:
     
-    ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Java](https://img.shields.io/badge/-Java-blue)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
